@@ -13,7 +13,6 @@ Passenger Class Distribution: Analyzing differences in ticket class preferences.
 
 ![Image](https://github.com/user-attachments/assets/a39ec60a-1a8d-4305-831e-27446a524708)
 
-
 📊 Dashboard Features
 ✅ Revenue & Sales Trends – Visualize total revenue and regional sales distribution.
 ✅ Passenger Demographics – Analyze age distribution, gender proportion, and booking trends.
