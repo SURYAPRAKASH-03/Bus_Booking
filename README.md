@@ -26,6 +26,7 @@ Passenger Class Distribution: Analyzing differences in ticket class preferences.
 🛠️ Tools Used
 Power BI for data visualization
 Excel / SQL for data processing (if required)
+
 🚀 How to Use
 Import the Titanic dataset (Titanic.xlsx) into Power BI.
 Clean and transform the data using Power Query.
